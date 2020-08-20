@@ -1,0 +1,20 @@
+C:\Users\MSİ\Desktop\SayısalLoto\SayısalLoto\bin\Debug\SayısalLoto.exe.config
+C:\Users\MSİ\Desktop\SayısalLoto\SayısalLoto\bin\Debug\SayısalLoto.exe
+C:\Users\MSİ\Desktop\SayısalLoto\SayısalLoto\bin\Debug\SayısalLoto.pdb
+C:\Users\MSİ\Desktop\SayısalLoto\SayısalLoto\obj\Debug\SayısalLoto.csprojAssemblyReference.cache
+C:\Users\MSİ\Desktop\SayısalLoto\SayısalLoto\obj\Debug\SayısalLoto.Form1.resources
+C:\Users\MSİ\Desktop\SayısalLoto\SayısalLoto\obj\Debug\SayısalLoto.Properties.Resources.resources
+C:\Users\MSİ\Desktop\SayısalLoto\SayısalLoto\obj\Debug\SayısalLoto.csproj.GenerateResource.cache
+C:\Users\MSİ\Desktop\SayısalLoto\SayısalLoto\obj\Debug\SayısalLoto.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Desktop\SayısalLoto\SayısalLoto\obj\Debug\SayısalLoto.exe
+C:\Users\MSİ\Desktop\SayısalLoto\SayısalLoto\obj\Debug\SayısalLoto.pdb
+C:\Users\sen\Desktop\C# PROJELER\SayısalLoto\SayısalLoto\bin\Debug\SayısalLoto.exe.config
+C:\Users\sen\Desktop\C# PROJELER\SayısalLoto\SayısalLoto\bin\Debug\SayısalLoto.exe
+C:\Users\sen\Desktop\C# PROJELER\SayısalLoto\SayısalLoto\bin\Debug\SayısalLoto.pdb
+C:\Users\sen\Desktop\C# PROJELER\SayısalLoto\SayısalLoto\obj\Debug\SayısalLoto.csprojAssemblyReference.cache
+C:\Users\sen\Desktop\C# PROJELER\SayısalLoto\SayısalLoto\obj\Debug\SayısalLoto.Form1.resources
+C:\Users\sen\Desktop\C# PROJELER\SayısalLoto\SayısalLoto\obj\Debug\SayısalLoto.Properties.Resources.resources
+C:\Users\sen\Desktop\C# PROJELER\SayısalLoto\SayısalLoto\obj\Debug\SayısalLoto.csproj.GenerateResource.cache
+C:\Users\sen\Desktop\C# PROJELER\SayısalLoto\SayısalLoto\obj\Debug\SayısalLoto.csproj.CoreCompileInputs.cache
+C:\Users\sen\Desktop\C# PROJELER\SayısalLoto\SayısalLoto\obj\Debug\SayısalLoto.exe
+C:\Users\sen\Desktop\C# PROJELER\SayısalLoto\SayısalLoto\obj\Debug\SayısalLoto.pdb
